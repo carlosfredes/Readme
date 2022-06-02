@@ -1,3 +1,3 @@
 Front-End Developer
-Currently Learning JavaScript
+Currently learning JavaScript
 From: Argentina
